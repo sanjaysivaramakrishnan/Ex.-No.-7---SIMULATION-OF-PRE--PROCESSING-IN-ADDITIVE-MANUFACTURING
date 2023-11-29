@@ -44,9 +44,10 @@
 ![WhatsApp Image 2023-11-29 at 08 12 39_f5ac8c6e](https://github.com/sanjaysivaramakrishnan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629616/95fdd8b7-1f42-4eb2-a407-1d709fa631ff)
 
 ![WhatsApp Image 2023-11-29 at 08 12 38_c67aac74](https://github.com/sanjaysivaramakrishnan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629616/5b7ec938-bd67-4439-84df-4d1dc45aee53)
-![WhatsApp Image 2023-11-29 at 08 15 42_c7ea2154](https://github.com/sanjaysivaramakrishnan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629616/8a837be6-576a-4d89-bfa9-ccbad5d14727)
+ 
 
 ## Output:
+![WhatsApp Image 2023-11-29 at 08 15 42_c7ea2154](https://github.com/sanjaysivaramakrishnan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629616/8a837be6-576a-4d89-bfa9-ccbad5d14727) 
 
 ### Name: Sanjay sivaramakrishnan M
 ### Register Number:23013798
