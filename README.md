@@ -41,13 +41,15 @@
 ## OUTPUT:
 ![WhatsApp Image 2023-11-29 at 08 12 39_9dca385b](https://github.com/sanjaysivaramakrishnan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629616/eef194fd-5dbf-486d-b50c-996c4c469dc4)
 
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![WhatsApp Image 2023-11-29 at 08 12 39_f5ac8c6e](https://github.com/sanjaysivaramakrishnan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629616/95fdd8b7-1f42-4eb2-a407-1d709fa631ff)
+
+![WhatsApp Image 2023-11-29 at 08 12 38_c67aac74](https://github.com/sanjaysivaramakrishnan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629616/5b7ec938-bd67-4439-84df-4d1dc45aee53)
+![WhatsApp Image 2023-11-29 at 08 15 42_c7ea2154](https://github.com/sanjaysivaramakrishnan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151629616/8a837be6-576a-4d89-bfa9-ccbad5d14727)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Sanjay sivaramakrishnan M
+### Register Number:23013798
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
